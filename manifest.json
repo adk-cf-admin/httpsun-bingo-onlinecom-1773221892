@@ -1,6 +1,6 @@
 {
-  "name": "Paf Casino Sverige",
-  "short_name": "Paf Casino Sverige",
+  "name": "Sun Bingo",
+  "short_name": "Sun Bingo",
   "theme_color": "",
   "background_color": "#FFFFFF",
   "display": "standalone",
@@ -9,7 +9,7 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "https://paf-casino-online.com/icons/icon-192x192.webp",
+      "src": "_assets/images/1773225092-favicon-32.webp",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "maskable any"
